@@ -5,15 +5,12 @@ categories: [ Jekyll ]
 image: assets/images/Tonka.jpg
 ---
 
-X | ①                       | ②                         | ③                               | ④                        | ⑤                              | ⑥ 
---|-------------------------|---------------------------|---------------------------------|--------------------------|--------------------------------|---
-① | [Héro](special/attaque) | [Oracle](special/attaque) | [Ecuyer](roles/ecuyer)          | [Catin](special/attaque) | ★                             | ① + [★★](special/attaque)  
-② | X                       | [Héro](special/attaque)   | [Prisonnier](roles/prisonnier)  | ★                       | [★★](special/attaque)         | ② 
-③ | X                       | X                         | [Héro](special/attaque)         | [★★](special/attaque)   | [Aubergiste](roles/aubergiste) | ③ 
-④ | X                       | X                         | X                               | [Dieu](special/attaque)  | [Princesse](roles/princesse)   | ④ 
-⑤ | X                       | X                         | X                               | X                        | [Dieu](special/attaque)        | ⑤ + [Dragon](roles/dragon)  
-⑥ | X                       | X                         | X                               | X                        | X                              | ⑥ + [Dieu](special/attaque)
-
+ | Pour 100g                       | %Journalier                        
+Protéine | 10g | 5%
+Lipides | 10g                  | 10%
+Sucre | 16g                       | 90%                        
+Glucides | 20g                    | 16%                  
+                       
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
