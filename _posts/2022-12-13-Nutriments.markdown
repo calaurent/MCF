@@ -109,8 +109,7 @@ Enfin, comme nous l’avons mentionné précédemment, il faut veiller à s’ex
 La cuisson des aliments peut-elle être toxique ? 
 Les hautes températures et les cuissons prolongées peuvent libérer des substances toxiques. La saveur et l’odeur des plats cuisinés sont essentiellement dues à des molécules formées par une cascade de réactions chimiques dites de “Maillard”. Malheureusement, ces réactions produisent des molécules indésirables encore largement méconnues. Certaines donnent un goût grillé, fumé ou caramélisé très apprécié des gourmets. Pourtant, des substances pourraient provoquer à long terme des cancers ou des maladies des vaisseaux. Ces découvertes sont si récentes que les chercheurs s’interrogent encore sur l’impact de ces éléments sur la santé.
 
-![Les substances toxiques liée à la cuisson](/assets/images/tab_nutriment.png)
-<img src="/assets/images/tab_nutriment.png" alt="">
+<img src="/MCF/assets/images/tab_nutriment.png" alt="">
 
 
 
