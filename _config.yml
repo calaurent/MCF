@@ -19,14 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    camille:
       name:           Camille
       site:           https://calaurent.github.io/MCF/
       avatar:         /assets/images/avatar1.jpg
       bio:            "Mesdammes et Messieurs, je m'appelle Laurent Camille, J'ai eu un parcours pluridisciplinaire parce que j'ai passé mon bac STI2D spécialisation information et numérique, je me suis alors orienté alors par la suitre à l'université en sciences humaines et sociales, spécialisation psychologie à Rennes. Je suis arrivées sur Clermont dans l'optique de poursuiivre mes études pour finalement comprendre que je voulais faire de la cuisine. Je me permets donc aujoud'hui de vous présenter mon chef d'oeuvre Meilleur Cuisinier de France"
       email:          camillelaurent35@yahoo.fr
-      twitter:        https://twitter.com/wowthemesnet
+
  
+     emmanuel:
+      name:           Emmanuel
+      site:           cv.emmanuelpierrain.fr
+      avatar:         /assets/images/manu.jpg
+      bio:            "Ingénieur informaticien, spécialisé en Réseaux et Cybersécurité, j'ai aidé Camille à concevoir ce site. Vous pouvez consulter mon CV sur mon site."
+      email:          empierrain@gmail.com
+
 # Defaults
 defaults:
 
