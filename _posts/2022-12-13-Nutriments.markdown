@@ -90,18 +90,17 @@ actions de la cuisson sur les vitamines et les sels minéraux :
 Les vitamines, en particulier la vitamine C, sont en partie détruites par la chaleur. On doit donc limiter au plys juste le temps de cuisson des aliments dont on veut préserver les vitamines. Les sels minéraux se dissolvent dans l’eau de cuisson, surtout si celle-ci n’est ni salée ni sucrée. Utiliser une faible quantité d’eau salée, faire cuire les aliments à la vapeur ou dans une poêle permettra de conserver leurs sels minéraux. 
 
 Sels minéraux 
-
 Les sels minéraux sont les constituants qui restent (sous forme de cendres) après calcination des tissus organiques. Selon les quantités mises en jeu dans l’organisme, les sels minéraux sont couramment divisés en 2 groupes : 
 les éléments principaux ou macro éléments : calcium (Ca), phosphore (P), potassium (K), chlore (Cl), sodium (Na), magnésium (Mg)
 les éléments traces ou oligo éléments : fer (Fe), zinc (Zn), cuivre (Cu), manganèse (Mn), iode (I), molybdène (Mo), etc. Les caractéristiques du zinc en tant que nutriment sont abordées dans un autre article : Zinc (nutriment)
 
-	Le fer
+Le fer
 Le manque de fer est un mal très courant. Il affecte en particulier les enfants et adolescents en pleine croissance, les femmes enceintes ou pré-ménopausées. 
 On distingue le fer selon qu’il est héminique (présent dans l’hémoglobine du sang, donc dans la viande) ou non héminique (provenant des végétaux, des oeufs ou des produits laitiers)
 Le fer héminique est bien absorbé par l'organisme tandis que le fer d’origine végétale a pour sa part besoin de vitamine C pour être aussi bien absorbé. 
 Le régime végétal étant toujours très riche en vitamine C, cette association (fer/vit. C) ne demande aucune attention et explique pourquoi les végétariens ne souffrent pas plus de carence en fer que les non-végétariens.
 
-	Le calcium
+Le calcium
 Le calcium est nécessaire pour la formation et le maintien des os que pour l'équilibre nerveux. Les produits laitiers en contiennent beaucoup, mais les viandes presque pas, et de plus, leur consommation en accentue les besoins. En effet, leur richesse en phosphore augmente la perte de calcium dans les urines. 
 Un excès de protéines diminue l’absorption du calcium et contribue pour beaucoup à l’apparition de l’ostéoporose (fragilité osseuse) qui affecte de façon endémique les sociétés occidentales. 
 Les végétaux sont d’assez bonnes sources de calcium (persil, brocolis, etc.). Toutefois certaines d’entre eux (épinards, rhubarbe, oseille) contiennent des quantités non négligeables d’acide oxalique qui en diminue l’absorption.
@@ -110,7 +109,7 @@ Enfin, comme nous l’avons mentionné précédemment, il faut veiller à s’ex
 La cuisson des aliments peut-elle être toxique ? 
 Les hautes températures et les cuissons prolongées peuvent libérer des substances toxiques. La saveur et l’odeur des plats cuisinés sont essentiellement dues à des molécules formées par une cascade de réactions chimiques dites de “Maillard”. Malheureusement, ces réactions produisent des molécules indésirables encore largement méconnues. Certaines donnent un goût grillé, fumé ou caramélisé très apprécié des gourmets. Pourtant, des substances pourraient provoquer à long terme des cancers ou des maladies des vaisseaux. Ces découvertes sont si récentes que les chercheurs s’interrogent encore sur l’impact de ces éléments sur la santé.
 
-![Les substances toxiques liée](assets/images/tab_nutriment.png)
+![Les substances toxiques liée à la cuisson](/assets/images/tab_nutriment.png)
 
 
 
