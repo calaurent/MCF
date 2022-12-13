@@ -3,7 +3,7 @@ layout: post
 title:  "Les nutriments et leur réaction face à la cuisson"
 author: camille
 categories: [ Jekyll ]
-image: assets/images/Tonka.jpg
+image: assets/images/nutriments.jpg
 ---
 
 Les nutriments ou éléments nutritifs sont un ensemble de composés organiques et inorganiques nécessaires à l’organisme vivant pour entretenir la vie. Le processus d'assimilation est la nutrition. Un nutriment est une substance organique ou minérale, directement assimilable sans avoir à subir les processus de dégradation de la digestion. 
