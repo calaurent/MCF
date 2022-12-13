@@ -2,7 +2,6 @@
 layout: post
 title:  "Les nutriments et leur réaction face à la cuisson"
 author: camille
-categories: [ Jekyll ]
 image: assets/images/nutriments.jpg
 ---
 
