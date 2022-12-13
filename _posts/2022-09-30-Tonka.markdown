@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "La fêve de Tonka c génial"
+author: camille
 categories: [ Jekyll ]
 image: assets/images/Tonka.jpg
 ---
