@@ -37,9 +37,10 @@ arômes : odeur et saveur formant la flaveur
 les nutriment jouant sur la couleur
 les nutriments jouant sur la consistance (eau, etc)
 
-#Classification par structure chimique
+# Classification par structure chimique
 
 ## L’eau
+
 l’eau est le liquide le plus indispensable de tous les nutriments, elle a un caractère essentiel pour tous les processus biologiques : comme réactif comme solvant et comme moyan de transport . Elle participe de manière essentielle aux processus osmotiques et aux échanges thermiques. 
 Besoins quotidiens pour un individus adulte de 60kg : 2.8 litres. 
  Ces besoins sont couverts par : 
@@ -61,6 +62,7 @@ Actuellement, les diététiciens recommandent d’augmenter la consommation d’
 réactions à la cuisson : Les glucides se caramélisent à la chaleur sèche, les glucides fondent puis se caramélisent. Si la chaleur dure trop longtemps, ils sont carbonisés, perdent toute valeur nutritive et gustative et peuvent devenir toxique. À la chaleur (vapeur), ils forment un sirop ou un liant pour les sauces. Cuit en présence d’eau, l’amidon du riz, des pâtes ou des pommes de terre, par exemple, devient plus digeste ; la pectine des fruits et légumes se gélifie et la cellulose se ramollit, les rendant plus faciles à assimiler. 
 
 ## Les lipides 
+
 l’essentiel des lipides sont des triglycérides, des esters de glycérol et d’acides gras à plus ou moins longue chaîne. Les propriétés des trglycérides découlnent des acides gras qui les constituent, on distingue trois types d’acides gras. Les aicdes gras mono-insaturés (AGM) et poly-insaturés (AGP) sont présents dans les huiles végétales et jouent un rôle protecteur contre l’athérosclérose. Les acides gras saturés (AGS), présents dans les graisses d’origine animale (la viande, les produits laitiers et les oeufs) sont responsables des dépôts lipidiques dans les parois des vaisseaux sanguins, une maladie dont les manifestations sont liées à l’ischémie des tissus irrigués par les vaisseaux lésés : ramollissement cérébral, angine de poitrine et infarctus du myocarde, insuffisance rénale et hypertension artérielle, artérite des membres inférieurs, etc. 
 Les AG insaturés augmentent les besoins en vitamine E, qui les protège de l’oxydation. Les margarines végétales sont toujours supplémentées en vitamine E et les huiles végétales en contiennent naturellement beaucoup (surtout lorsqu’elles ne sont pas raffinées).
 Autre lipides : les phospholipides, dont lécithine, les stérols dont cholestérol
@@ -69,6 +71,7 @@ Action de la cuisson sur les lipides:
 Les lipides fondent à une température variable. Les matière grasses d’origine animale sont solides à température ambiante, alors que celles d’origine végétale sont généralement liquides. Si la cuisson se fait à une température trop élevée, ils se décomposent en libérant des substances âcres toxiques et cancérigènes - l’acroléine, par exemple. Selon leur capacité à supporter la chaleur, les huiles, les margarines et le beurre permettent des modes de cuisson très différents
 
 ## Les protéines 
+
 À l’heure actuelle, dans la société occidentale, les personnes carencées en protéines sont rares et ne se rencontrent que dans des situations dramatiques de malnutrition. 
 
 Qualité des protéines (acide aminés)
@@ -81,6 +84,7 @@ L’action de la cuisson sur les protéines :
 La cuisson casse les protéines en petits fragments, mais n’altère en rien leur valeur nutritionnelle. Les protéines coagulent aux environs de 60°C. Ainsi, un morceau de viande ou de poisson, placé dans une poêle sèche (saisi ou revenu) ou trempé dans de l’eau bouillante et si possible salée se couvre rapidement d’une croûte de protéines coagulées qui empêche la fuite des sucs contenus à l’intérieur. À l’inverse, les viandes placées dans l’eau froide, puis bouillies, laissent échapper des protéines et des sels minéraux que l’on retrouve dans le bouillon, comme une dans le pot-au-feu. Le collagène des viandes, une protéine fibreuse qui donne à la viande sa texture, est dissout par une cuisson prolongée. Il forme une gelée en refroidissant la gélatine. 
 
 ## Les Vitamines 
+
 Les principales sources de vitamines sont des fruits, les légumes et les céréales. 
 La vitamines C abonde dans les fruits et les légumes (agrumes, tomates, poivrons, etc) les vitamines du groupe B dans les céréales; la provitamine A (beta carotène), qui se convertit en vitamine A dans l’organisme, dans les légumes (carotte, épinards, persil, cresson etc) : la vitamine K dans les légumes verts; les vitamines E et F dans les graines oléagineuses, etc.
 Deux cas sont à étudier particulièrement : celui de la vitamine D et de la vitamine B12. 
@@ -93,17 +97,20 @@ actions de la cuisson sur les vitamines et les sels minéraux :
 Les vitamines, en particulier la vitamine C, sont en partie détruites par la chaleur. On doit donc limiter au plys juste le temps de cuisson des aliments dont on veut préserver les vitamines. Les sels minéraux se dissolvent dans l’eau de cuisson, surtout si celle-ci n’est ni salée ni sucrée. Utiliser une faible quantité d’eau salée, faire cuire les aliments à la vapeur ou dans une poêle permettra de conserver leurs sels minéraux. 
 
 ## Sels minéraux 
+
 Les sels minéraux sont les constituants qui restent (sous forme de cendres) après calcination des tissus organiques. Selon les quantités mises en jeu dans l’organisme, les sels minéraux sont couramment divisés en 2 groupes : 
 les éléments principaux ou macro éléments : calcium (Ca), phosphore (P), potassium (K), chlore (Cl), sodium (Na), magnésium (Mg)
 les éléments traces ou oligo éléments : fer (Fe), zinc (Zn), cuivre (Cu), manganèse (Mn), iode (I), molybdène (Mo), etc. Les caractéristiques du zinc en tant que nutriment sont abordées dans un autre article : Zinc (nutriment)
 
 ## Le fer
+
 Le manque de fer est un mal très courant. Il affecte en particulier les enfants et adolescents en pleine croissance, les femmes enceintes ou pré-ménopausées. 
 On distingue le fer selon qu’il est héminique (présent dans l’hémoglobine du sang, donc dans la viande) ou non héminique (provenant des végétaux, des oeufs ou des produits laitiers)
 Le fer héminique est bien absorbé par l'organisme tandis que le fer d’origine végétale a pour sa part besoin de vitamine C pour être aussi bien absorbé. 
 Le régime végétal étant toujours très riche en vitamine C, cette association (fer/vit. C) ne demande aucune attention et explique pourquoi les végétariens ne souffrent pas plus de carence en fer que les non-végétariens.
 
 ## Le calcium
+
 Le calcium est nécessaire pour la formation et le maintien des os que pour l'équilibre nerveux. Les produits laitiers en contiennent beaucoup, mais les viandes presque pas, et de plus, leur consommation en accentue les besoins. En effet, leur richesse en phosphore augmente la perte de calcium dans les urines. 
 Un excès de protéines diminue l’absorption du calcium et contribue pour beaucoup à l’apparition de l’ostéoporose (fragilité osseuse) qui affecte de façon endémique les sociétés occidentales. 
 Les végétaux sont d’assez bonnes sources de calcium (persil, brocolis, etc.). Toutefois certaines d’entre eux (épinards, rhubarbe, oseille) contiennent des quantités non négligeables d’acide oxalique qui en diminue l’absorption.
