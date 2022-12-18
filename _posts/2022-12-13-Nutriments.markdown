@@ -8,7 +8,7 @@ image: assets/images/nutriments.jpg
 Les nutriments ou éléments nutritifs sont un ensemble de composés organiques et inorganiques nécessaires à l’organisme vivant pour entretenir la vie. Le processus d'assimilation est la nutrition. Un nutriment est une substance organique ou minérale, directement assimilable sans avoir à subir les processus de dégradation de la digestion. 
 composants élémentaires contenus dans la nourriture ou issus de la nature ambiante. Ils sont utilisés par l'organisme pour assurer l'entretien, le fonctionnement métabolique et physiologique d’un individu, notamment de son développement et de sa croissance. 
 
-**classification selon leur essentialité : **
+**classification selon leur essentialité :**
 
 les nutriments essentiels (ou indispensables) obligatoirement apportés par l’alimentation car l’organisme est incapable de les synthétiser du fait de l’absence des gènes correspondants aux enzymes nécessaires. 
 
@@ -83,7 +83,7 @@ Cette théorie dite de la “complémentarité des protéines” est très prés
 L’action de la cuisson sur les protéines : 
 La cuisson casse les protéines en petits fragments, mais n’altère en rien leur valeur nutritionnelle. Les protéines coagulent aux environs de 60°C. Ainsi, un morceau de viande ou de poisson, placé dans une poêle sèche (saisi ou revenu) ou trempé dans de l’eau bouillante et si possible salée se couvre rapidement d’une croûte de protéines coagulées qui empêche la fuite des sucs contenus à l’intérieur. À l’inverse, les viandes placées dans l’eau froide, puis bouillies, laissent échapper des protéines et des sels minéraux que l’on retrouve dans le bouillon, comme une dans le pot-au-feu. Le collagène des viandes, une protéine fibreuse qui donne à la viande sa texture, est dissout par une cuisson prolongée. Il forme une gelée en refroidissant la gélatine. 
 
-## Les Vitamines 
+## Les vitamines 
 
 Les principales sources de vitamines sont des fruits, les légumes et les céréales. 
 La vitamines C abonde dans les fruits et les légumes (agrumes, tomates, poivrons, etc) les vitamines du groupe B dans les céréales; la provitamine A (beta carotène), qui se convertit en vitamine A dans l’organisme, dans les légumes (carotte, épinards, persil, cresson etc) : la vitamine K dans les légumes verts; les vitamines E et F dans les graines oléagineuses, etc.
@@ -96,7 +96,7 @@ Cependant, comme une carence peut apparaître dans un temps indéterminé (la vi
 actions de la cuisson sur les vitamines et les sels minéraux : 
 Les vitamines, en particulier la vitamine C, sont en partie détruites par la chaleur. On doit donc limiter au plys juste le temps de cuisson des aliments dont on veut préserver les vitamines. Les sels minéraux se dissolvent dans l’eau de cuisson, surtout si celle-ci n’est ni salée ni sucrée. Utiliser une faible quantité d’eau salée, faire cuire les aliments à la vapeur ou dans une poêle permettra de conserver leurs sels minéraux. 
 
-## Sels minéraux 
+## Sels minéraux 
 
 Les sels minéraux sont les constituants qui restent (sous forme de cendres) après calcination des tissus organiques. Selon les quantités mises en jeu dans l’organisme, les sels minéraux sont couramment divisés en 2 groupes : 
 les éléments principaux ou macro éléments : calcium (Ca), phosphore (P), potassium (K), chlore (Cl), sodium (Na), magnésium (Mg)
